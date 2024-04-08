@@ -14,8 +14,7 @@ Matplotlib: https://matplotlib.org/stable/contents.html
 Seaborn: https://seaborn.pydata.org/
 Jupyter Notebook: https://jupyter-notebook.readthedocs.io/en/stable/
 
-Data Science
----
+## Data Science
 
 Data Science is 
 - a multidisciplinary field 
@@ -100,5 +99,46 @@ Data Warehousing Tools:
 ETL Tools: 
 - [ Informatica ], Talend, and Apache Beam are used for the extraction, transformation, and loading of data.
 
+## Big Data
+![alt text](image-2.png)
 
+Introduction to Big Data
+---
+
+What is Data?
+- The quantities, characters, or symbols on which operations are performed by a computer,
+which may be stored and transmitted in the form of electrical signals and recorded on
+magnetic, optical, or mechanical recording media.
+
+What is Big Data?
+- Big Data is also data but with a huge size. 
+- Big Data is a term used 
+  - to describe a collection of data that is huge in volume and yet growing exponentially with time. 
+- "Extremely large data sets that may be analyzed computationally to reveal patterns ,
+trends and association, especially relating to human behavior and interaction are
+known as Big Data."
+
+_Big Data is typically characterized by the following five characteristics, often referred to as the_ 5Vs:
+---
+
+1. Volume: 
+   - refers to the vast amounts of data generated every second. 
+   - The size of the data determines the value and potential of the data under consideration and whether it can be considered as Big Data or not.
+
+2. Velocity: 
+   - refers to the speed at which new data is generated and the speed at which data moves around. 
+   - With the growth of the Internet of Things, data is being generated in real-time or near real-time.
+
+3. Variety: 
+   - refers to the different types of data we can now use. 
+   - Data today comes in all types of formats from structured, numeric data in traditional databases to unstructured text documents, emails, videos, audios, stock ticker data, and financial transactions.
+
+4. Veracity: 
+   - refers to the quality of the data, which can vary greatly. 
+   - Veracity in big data can be a challenge because of the many sources providing data with varying degrees of truthfulness, accuracy, and context.
+
+5. Value: 
+   - refers to our ability turn our data into value. 
+   - It is all well and good to have access to big data but unless we can turn it into value it is useless. 
+   - By turning data into information and information into insights we can make informed decisions.
 
